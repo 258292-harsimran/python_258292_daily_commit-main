@@ -6,7 +6,11 @@ def mul(num3,num4):
     
 
 print("multiplication of ")
-num3 = 5
-num4 = 5
-
-print(mul(num3,num4))
+n3 =input()
+n4 =input()
+num3 =float(n3)
+num4 =float(n4)
+#num3 = 5
+#num4 = 5
+mul(num3,num4)
+ 
